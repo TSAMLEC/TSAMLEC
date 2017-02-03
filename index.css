@@ -60,7 +60,7 @@ html, body {
 	padding: 15px 20px;
 	background-color: #00008B;
 	display: block;
-	color: #00FFFF;
+	color: #000000;
 }
 
 #nav ul li a:visited {
@@ -69,7 +69,7 @@ html, body {
 
 #nav ul li a:hover {
 	background-color: #00FFFF;
-	color: #fff;
+	color: #000000;
 }
 
 
