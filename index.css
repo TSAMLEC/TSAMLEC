@@ -58,18 +58,18 @@ html, body {
  {
 	text-decoration: none;
 	padding: 15px 20px;
-	background-color: #393e41;
+	background-color: #00008B;
 	display: block;
-	color: #fff;
+	color: #00FFFF;
 }
 
 #nav ul li a:visited {
-	color: #fff;
+	color: #00FFFF;
 }
 
 #nav ul li a:hover {
-	background-color: #fc2a2a;
-	color: #fff;
+	background-color: #00FFFF;
+	color: #00FFFF;
 }
 
 
@@ -77,13 +77,13 @@ html, body {
 	width: 100%;
 	min-width: 700px;
 	height: 40px;
-	background-color: #393e41;
+	background-color: #00008B;
 	margin: 0;
 	padding: 0;
 	display: table;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
-	color: #fff;
+	color: #00FFFF;
 	position: fixed;
 	left: 0;
 	top: 0;
