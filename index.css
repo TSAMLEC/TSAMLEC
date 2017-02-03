@@ -15,7 +15,7 @@ html, body {
 }
 
 #middle a:visited {
-	color: cyan;
+	color: black;
 }
 
 #middle a:after {
@@ -64,7 +64,7 @@ html, body {
 }
 
 #nav ul li a:visited {
-	color: #000000;
+	color: #00FFFF;
 }
 
 #nav ul li a:hover {
