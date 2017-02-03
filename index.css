@@ -15,7 +15,7 @@ html, body {
 }
 
 #middle a:visited {
-	color: black;
+	color: cyan;
 }
 
 #middle a:after {
@@ -60,7 +60,7 @@ html, body {
 	padding: 15px 20px;
 	background-color: #00008B;
 	display: block;
-	color: #000000;
+	color: #00FFFF;
 }
 
 #nav ul li a:visited {
