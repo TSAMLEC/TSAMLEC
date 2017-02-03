@@ -68,8 +68,8 @@ html, body {
 }
 
 #nav ul li a:hover {
-	background-color: #FFF;
-	color: #00FFFF;
+	background-color: #00FFFF;
+	color: #fff;
 }
 
 
@@ -83,7 +83,7 @@ html, body {
 	display: table;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
-	color: #00FFFF;
+	color: #ffffff;
 	position: fixed;
 	left: 0;
 	top: 0;
